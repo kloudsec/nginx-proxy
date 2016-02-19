@@ -1,4 +1,4 @@
-FROM nginx:1.9.9
+FROM nubelacorp/nginx:latest
 MAINTAINER Jason Wilder mail@jasonwilder.com
 
 # Install wget and install/updates certificates

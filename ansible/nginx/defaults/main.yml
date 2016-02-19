@@ -1,0 +1,2 @@
+ssl_key_path: kloudsec.com.key
+ssl_cert_path: kloudsec.com.crt
